@@ -1,0 +1,14 @@
+# Python bytecode & cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Temporary test / scratch scripts
+test_cells.py
+test_*.py
+
+# Auxiliary modules requested to exclude
+clinical_preprocessor.py
+
+# Excel temp lock files
+~$*.xlsx
