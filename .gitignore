@@ -12,3 +12,10 @@ clinical_preprocessor.py
 
 # Excel temp lock files
 ~$*.xlsx
+
+# Logs
+*.log
+
+# Virtual environments
+.venv/
+
