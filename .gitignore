@@ -19,3 +19,6 @@ clinical_preprocessor.py
 # Virtual environments
 .venv/
 
+# Editor settings
+.vscode/
+
